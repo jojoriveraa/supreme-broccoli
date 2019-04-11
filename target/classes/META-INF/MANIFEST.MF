@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: brew-coffee-service
+Implementation-Version: 0.0.1350-SNAPSHOT
+Built-By: jja003o
+Implementation-Vendor-Id: com.walmart.det
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/brew-coffee-service
+Created-By: Maven Integration for Eclipse
+

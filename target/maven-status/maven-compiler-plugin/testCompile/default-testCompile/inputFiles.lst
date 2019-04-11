@@ -1,0 +1,14 @@
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/business/VersionBusinessImplTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/business/BrewBusinessImplTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/controller/BrewControllerTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/BrewCoffeeIT.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/controller/BrewControllerV1Test.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/exceptions/IllegalQuantityExceptionTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/exceptions/CoffeTypeNotImplementedExceptionTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/controller/ControllerTests.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/controller/OrderControllerTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/controller/AppInfoTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/service/OrderManagerTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/data/StockRepositoryTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/model/CoffeeTypeTest.java
+/Users/jja003o/Documents/GitHub/det-ector/src/test/java/com/walmart/det/brewcoffeeservice/data/StockServiceTest.java

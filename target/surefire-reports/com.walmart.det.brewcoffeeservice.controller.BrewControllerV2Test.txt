@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.walmart.det.brewcoffeeservice.controller.BrewControllerV2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.774 s <<< FAILURE! - in com.walmart.det.brewcoffeeservice.controller.BrewControllerV2Test
+dummyCoffee_basic(com.walmart.det.brewcoffeeservice.controller.BrewControllerV2Test)  Time elapsed: 0.092 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.walmart.det.brewcoffeeservice.controller.BrewControllerV2Test.dummyCoffee_basic(BrewControllerV2Test.java:35)
+
